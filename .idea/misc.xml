@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/littl/OneDrive/Documents/School/70_sp2022/Sendr/app/src/main/res/layout/Home.xml" value="0.3625" />
+        <entry key="..\:/Users/littl/OneDrive/Documents/School/70_sp2022/Sendr/app/src/main/res/layout/Home.xml" value="0.25" />
         <entry key="..\:/Users/littl/OneDrive/Documents/School/70_sp2022/Sendr/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/littl/OneDrive/Documents/School/70_sp2022/Sendr/app/src/main/res/layout/pay.xml" value="0.25" />
+        <entry key="..\:/Users/littl/OneDrive/Documents/School/70_sp2022/Sendr/app/src/main/res/menu/bnv.xml" value="0.25" />
       </map>
     </option>
   </component>
